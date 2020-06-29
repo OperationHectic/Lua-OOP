@@ -1,4 +1,4 @@
-local Class = {int}
+local Class = {}
 Class.__index = Class
 
 setmetatable(Class, {
